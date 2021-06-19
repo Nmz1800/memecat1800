@@ -2,6 +2,7 @@ body{
     font-family: Roboto;
     background-image: url("image/beijing.png");
     background-size: cover;
+    width: 100%;
     background-repeat: no-repeat;
     overflow: hidden;
 }
