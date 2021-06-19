@@ -20,7 +20,6 @@ body{
     justify-content: space-between;
 }
 .top{
-    padding: auto;
     background-color: aqua;
     box-shadow: 0 0 10px #00000070;
 }
