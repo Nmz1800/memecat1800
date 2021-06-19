@@ -22,6 +22,7 @@ body{
 .top{
     padding: auto;
     background-color: aqua;
+    box-shadow: 0 0 10px #00000070;
 }
 button{
     border-radius: 15px;
