@@ -1,0 +1,46 @@
+body{
+    font-family: Roboto;
+    background-image: url("image/beijing.png");
+    background-size: 100%;
+    background-position: center;
+    overflow: hidden;
+}
+
+.caticon{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.cat{
+    width: 85%;
+    height: 15%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.top{
+    padding: auto;
+    background-color: aqua;
+}
+button{
+    border-radius: 15px;
+    padding: 10px 35px;
+    cursor: pointer;
+    border: 1px solid blue;
+    background: transparent;
+    color: blue;
+}
+.content{
+    transform: translateY(40%);
+}
+
+.use{
+    padding: 20px;
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    width: 500px;
+    height: 110px;
+    background-color: rgb(255, 155, 230);
+}
