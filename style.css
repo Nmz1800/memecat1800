@@ -2,10 +2,7 @@ body{
     padding: 0;
     margin: 0;
     font-family: Roboto;
-    background-image: url("image/beijing.png");
-    background-size: cover;
-    width: 100%;
-    background-repeat: no-repeat;
+    background-color: #ffb3ff;
     overflow: hidden;
 }
 
@@ -46,4 +43,5 @@ button{
     width: 500px;
     height: 110px;
     background-color: rgb(255, 155, 230);
+    box-shadow: 0 0 10px #00000070;
 }
